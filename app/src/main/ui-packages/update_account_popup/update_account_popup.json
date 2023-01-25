@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "yXddnwgmFl7Vofw9CT9Uy6",
     "node": "111:247",
-    "version": "2912810450",
+    "version": "2918619809",
     "component-id": "2929a78b51314762313bea0b79346214b8f6d260"
   },
   "default": "Update Account Popup",
@@ -75,14 +75,13 @@
             "size-constraints": {
               "width-constraints": {
                 "sizing-mode": "fixed",
-                "value": "150.0"
+                "value": "156.0"
               },
               "height-constraints": {
                 "sizing-mode": "fixed",
                 "value": "22.0"
               }
             },
-            "font-weight": "500.0",
             "color": {
               "alpha": "1.0",
               "hue": "0.0",
@@ -94,8 +93,8 @@
             "max-lines": "-1",
             "text-align": "left",
             "text-size": "16.0",
-            "line-height": "1.3660000562667847",
-            "typeface": "Manrope"
+            "line-height": "1.5",
+            "typeface": "Poppins"
           },
           {
             "id": "Ellipse 1",
