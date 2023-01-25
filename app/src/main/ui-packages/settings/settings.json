@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "yXddnwgmFl7Vofw9CT9Uy6",
     "node": "113:352",
-    "version": "2912810450",
+    "version": "2918714556",
     "component-id": "8db0bf24dca837e79b971c088457359622507a47"
   },
   "default": "Settings",
@@ -445,7 +445,7 @@
             "alignment": {
               "horizontal": {
                 "attachment": "start",
-                "offset": "19.0"
+                "offset": "22.0"
               },
               "vertical": {
                 "attachment": "start",
